@@ -1,0 +1,12 @@
+/*----------------Logo-------------*/
+.logo{
+    float: left;
+    height: 110px;
+    transform: scale(.8);
+}
+.bg-purple{
+    background-color: #777bb4;
+}
+.read-more{
+    text-align: center;
+}
